@@ -1,4 +1,4 @@
--- To create a table in your sql server
+-- To create a table in  sql server
 
 CREATE TABLE IF NOT EXISTS force_name (
     id INT,
